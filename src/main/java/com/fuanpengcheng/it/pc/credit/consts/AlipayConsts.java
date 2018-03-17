@@ -1,0 +1,78 @@
+package com.fuanpengcheng.it.pc.credit.consts;
+
+/**
+ * @author: wukuilong
+ * @version: 1.0
+ * @created: 2018-01-23
+ * @description:
+ */
+public class AlipayConsts {
+    /*
+    老应用_沙箱
+    public static final String APP_ID = "2016091300500762";
+    public static final String APP_PRIVATE_KEY = "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxo8EiVIhHd5NRSlm1I9HEr/D+oQFv9BX6SUXbu0Afa76siKYhsYkOkcaMKVJNlZvOuv/8xT3BZZ0qFx7kaNaUzwPUAHS6Vgjbu7wqxY4rnrzfWOoQI+H3I5uT3kgsLoIKGPPgGCzwxu6RMNGeWChUlHKF2yOrPkzfTlPer0p1omyBzRCxbj7EV3aAyRPqPJ1/d0eIy3L6C8jXQhlcKfy05JTdEcVxxURbAIM+wN88j2KxV05xEe7v/bjNOt+MgADKXde3jSIvS5BpyEOW5Akla4OnvCvASJ7LKS6SGyObnmUBleWBWVQzxS17yL52OHYjV3sQDp5Cu4dWhXl7RlwhAgMBAAECggEAFeX49hFzp1O/TmMbAfCDeHqz+7+/XJy7ZNpJiVfhBL6Uh9JkoHyxR6GC1150renGhkqZKgDqpv+uyzSEc2XVJg0LDMRtn1bhyqyu+prV9tyfrezZFdpGjd/O2wCo5wFouHPxBGwWhiwP1sgs3xdBCYQvRf8Iu6B3e4O9ZRM4251QpH7UvJLkiCUJlTgsZDCmN83jiDkewi+cjTf083PgY2SZBO8e49SSI46bQqjbtzvpUpo/k4g4w/LmvVCTBxErJutso856/BYTSQ3GhL/bgY/pdXyAC1br7ws8b0zje8DCGZdEaq9Haw3hVdgoY57D5Pno9Wh26q20uVKIkwjHQQKBgQDdFHF4qmFpHPyq0N+81uKLpEMqZM80sHKfiD752spzENuUVjQoGL0dP3NVQHCkIOu8aVkEFp6nzvrx72dznaVjgHD4BvcKQbew2Dpmy8jhoINqQBUxb/eq2vVG/VhO0J5323EYYB49AUz4wcV3wZoq0aah4C+j4+usZKGH+dUFaQKBgQDNssTqFZMW5XF+A5K4T888VZNi4Vu/sBgjzOurU9gkzcyX6S+wlVl2es+aAZrnzLfxfXaJi1mR9+xaLEXti2nlgDf8dFBLHc2wwzzSCOppWgVQZqvXPb+orrtaDK+7Ewxqbb60ispIBDJrLHuNkJ3t6ev6gwEoeHVwcZTK1FMx+QKBgQC4dI4YN0/++4h0nMGQNVnfWLYRcPrQ40c/g9XHcZzoVHBgW2w46CshdAcuYg2ZYz5MfTkgCB9ns3H82dpexHFxi4C18Fm93Qb+LerMScrZNatvwvfrv5fMndN333kGiVkud5Ds3YVdMPCfvEydlpKilzmIZhxZiZjgxTVg1jm9wQKBgEwqdOWkpXll7jdWBV8AFmFl4pRLlBiPkPC4sU8YVcGS/r4FV2ZQdvb7FKIXFA/e6wGdjmXx1nHJVpgxKpeB9u1HI/Pz8cNOvtpEAOJY8MufzLXvvpONxskkIjV+2xcvP3qtNl9NwQcXnr+2ke1ibkgpRPrWxXgB2qKPPCQ6qK+pAoGBAKnhd7Vprgkw++6I7vghOCqnCAsLkWBW3Yn+rI0V3oxiywBfW42J4k8ScIOWor9tRZTGqCX/kv3e4Y+Ny1NFXX4Dk+ii/1B+hY6997bwLKPtfY2tmd/qe1Pt/bDj5WIOQ2KIiI6+jhbK7Gx+O0wsaaF0kLPzzeh/DzatdAvQDDxo";
+    public static final String ALIPAY_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArcT8Nb0taJhkyJp9nzig8e49te3rVKGnlk+9uUNM9DID9b2lOknVEkz4sdBJ/QE3C3OoBUWwTdyfDTZ4fvDyv3DHwclnA+2SNbbZPaquM0h8PYq5z2jULuzuUoRYChuWWMQxk1kjGOr+BC+XmgFvTo3BBPoAqGKYcsMb91hUCLXLpEQt3SDYqcg3UF0RhNvmzpIYfi8AcVP+PNNofu9kUyKTmysb7Bcj27zCeykaVGEvDTbAHMy+mOqLMpptFYGtkn9weIyPdWTGNwMTlOPy7M4pGG/xLZzqs7aubP2La9UtVpURZbNPs0Y3qVlpNV4R7KecXG1r/VNrHXvj1GGSpQIDAQAB\n";
+*/
+
+/*
+新应用_线上
+    public static final String APP_ID = "2018021202183863";
+
+    public static final String APP_PRIVATE_KEY = "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCHRPBRAavXrnYnVD8NqSd/DTmNLEIz8xRTG+6BnKcBzgJAJbLVLEMLphZyHsBFhG5fv4NViqnYo4+kRxNUrt5yuBw/NVRWEAw18H3vvyCWDwAWUXQjfzEkzUHDY9Sm0sTH3jaKL6Qn7lDFZcMHz2JZ6kNZdmyPUbVfB9Hv8nq+oBwnaZvJo8kiRBKcwb08IeXYX7glQirCBdQS8IFUO65r1MlECHNdQPGOvEr6gJTivCfd1JTZbFpra3NtF+GEVevMwA/jD/O7tdDD5bz/A0Irh7mQ/Sz0+8MG37v+E271CecL5pjLjO/sLUYRiHoTvJ9HnCAxu/1x0Dz0s1yIrCqVAgMBAAECggEAI/g1+yR5oJG4w36IgcZwRT2sBxk0xYGm7u6nfnm8gyNXv90Gb98kOO3CXDhHInUzsGxJrS6BOaVMpf9saYFSj6jbggdZVMVRqeo4Ys8tCBoXCNhCDMpetA2Mpjteqbm0L/2r/RTsDt41RjhoIySHX6eGnzx5Y6bzlsCKl8af0x53GEiBLztyvjyZ0ZPhNBWBOOHKTls0PFOR3rpvM8UjtQlVhYv1el3iVOtQzzfdNVCGZrof1XTQbWBxB5KQf1hX3NzsrP72+4R6/21aOcbGptzprDjoKzYbuZIhJUpjDtQmtiwSROe8kN2Ld/jdTfdhi5VlTH0NfJxYCJ+BSxUBoQKBgQDFqhCEDaOmJn790azoMPxJKR87lpbJCtpN+nnYXtiqPajqIYfd0X+Up747NCabqEmic8wHopcDYbeWHbvcBoJwftf8OI2mPRZOooSvjVh3DoGtNxG4QSRlQSEoJVH7lLuZOuUTKUvB6lpieqELS9FyQL4s8bNGVbo8i0/t3cvVqQKBgQCvMM4a7QpnvJGuPablhq2bLjdRPBriNupx5IQHXgC79mS2kCttPzOB6K/bWoSgaS3/RwjSjnLj7OmUTR4tGL9iBSLbkRJK/YHXidzknnifDJPP5omDTW8sERN9MFQnMQQkRM8oofm06OxA5EzJ4836yb5PW3Cs+olsyzrFozBpDQKBgQC6YyDrxIi6FbbN1Ld8wyRCQJqI7/kDXk54FWZr1xPrg/URwciCLBhnrr08ynJVeRzmKNcNpA1OTQh2b1dDpIe/WHyGAzXeud+dCrafa2Mt8Onq0fDNk++j4wRG/NoPpzI2zUhRBzG+iyPrlMLjCf1YBSDO9KMeAZx5lswp+mlI8QKBgEYngSF/Mt9/v8bKoX7gg7zUsQoyy4EzBIc/Py/EEP80F/iTmxBQcsve5i0s/ldOR0EmrP3EVXW4dYERsLfWZS1XaTIL0gt9oPUzG+XhH+RxIO/sHb0a0R4QaIGFTO20zzfG5j4bPueXLqR9x9JBC0cWasNUlrZuTYHnkE18n/IxAoGBALJdxiGmIX4cuMfdfO00ZRBxq8aWJz2UjzG+41KMJZoZPbMn1UDmXkeLAh9DqqCDZJDeaMZm6+kMRaCCaOoJePIwvyAOPCMAI/TdOIB4yBNI99c8voGE8YIQmas9s0ujEBYXmNY1RYTBRKkxetEMGAMIIsJIdbtph8hb/LtRAZPQ";
+
+    public static final String ALIPAY_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtHHxkGEzCAJ/e9ZVcEusItyArJ0pAZhOJvpjGanI3xt/576imZwf/oCLx5xtZFCLSo7Ue2bbr/3v7HJhsH5DLpIt4/0wwxLkluO9mQYWuFoDhB/WvVAtFfZGQgFAwdpGtJ84bE+D2o3SG4Q1Qzav3be0v3WEZrjgzZh7sHPF88j9Pe3LWbwxDrj0k/tfJK8RyESZ1EyQD75nOZ0jgV4DHlvfPmt+s2VkzhY8IzzBIJI4jYh+5t5JPxrECqCB/gWVUUQQQYj099aZM2iOXAmEzRPkT+9d8pD2kNjLBKJQl9UdFqHc3sRR+MoTWfyt1RyOSMo25dlW1p7xZ5gXMsY8iwIDAQAB\n";
+*/
+
+    // 新应用_沙箱
+    public static final String APP_ID = "2016091200496360";
+
+    public static final String APP_PRIVATE_KEY = "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCHRPBRAavXrnYnVD8NqSd/DTmNLEIz8xRTG+6BnKcBzgJAJbLVLEMLphZyHsBFhG5fv4NViqnYo4+kRxNUrt5yuBw/NVRWEAw18H3vvyCWDwAWUXQjfzEkzUHDY9Sm0sTH3jaKL6Qn7lDFZcMHz2JZ6kNZdmyPUbVfB9Hv8nq+oBwnaZvJo8kiRBKcwb08IeXYX7glQirCBdQS8IFUO65r1MlECHNdQPGOvEr6gJTivCfd1JTZbFpra3NtF+GEVevMwA/jD/O7tdDD5bz/A0Irh7mQ/Sz0+8MG37v+E271CecL5pjLjO/sLUYRiHoTvJ9HnCAxu/1x0Dz0s1yIrCqVAgMBAAECggEAI/g1+yR5oJG4w36IgcZwRT2sBxk0xYGm7u6nfnm8gyNXv90Gb98kOO3CXDhHInUzsGxJrS6BOaVMpf9saYFSj6jbggdZVMVRqeo4Ys8tCBoXCNhCDMpetA2Mpjteqbm0L/2r/RTsDt41RjhoIySHX6eGnzx5Y6bzlsCKl8af0x53GEiBLztyvjyZ0ZPhNBWBOOHKTls0PFOR3rpvM8UjtQlVhYv1el3iVOtQzzfdNVCGZrof1XTQbWBxB5KQf1hX3NzsrP72+4R6/21aOcbGptzprDjoKzYbuZIhJUpjDtQmtiwSROe8kN2Ld/jdTfdhi5VlTH0NfJxYCJ+BSxUBoQKBgQDFqhCEDaOmJn790azoMPxJKR87lpbJCtpN+nnYXtiqPajqIYfd0X+Up747NCabqEmic8wHopcDYbeWHbvcBoJwftf8OI2mPRZOooSvjVh3DoGtNxG4QSRlQSEoJVH7lLuZOuUTKUvB6lpieqELS9FyQL4s8bNGVbo8i0/t3cvVqQKBgQCvMM4a7QpnvJGuPablhq2bLjdRPBriNupx5IQHXgC79mS2kCttPzOB6K/bWoSgaS3/RwjSjnLj7OmUTR4tGL9iBSLbkRJK/YHXidzknnifDJPP5omDTW8sERN9MFQnMQQkRM8oofm06OxA5EzJ4836yb5PW3Cs+olsyzrFozBpDQKBgQC6YyDrxIi6FbbN1Ld8wyRCQJqI7/kDXk54FWZr1xPrg/URwciCLBhnrr08ynJVeRzmKNcNpA1OTQh2b1dDpIe/WHyGAzXeud+dCrafa2Mt8Onq0fDNk++j4wRG/NoPpzI2zUhRBzG+iyPrlMLjCf1YBSDO9KMeAZx5lswp+mlI8QKBgEYngSF/Mt9/v8bKoX7gg7zUsQoyy4EzBIc/Py/EEP80F/iTmxBQcsve5i0s/ldOR0EmrP3EVXW4dYERsLfWZS1XaTIL0gt9oPUzG+XhH+RxIO/sHb0a0R4QaIGFTO20zzfG5j4bPueXLqR9x9JBC0cWasNUlrZuTYHnkE18n/IxAoGBALJdxiGmIX4cuMfdfO00ZRBxq8aWJz2UjzG+41KMJZoZPbMn1UDmXkeLAh9DqqCDZJDeaMZm6+kMRaCCaOoJePIwvyAOPCMAI/TdOIB4yBNI99c8voGE8YIQmas9s0ujEBYXmNY1RYTBRKkxetEMGAMIIsJIdbtph8hb/LtRAZPQ";
+
+    public static final String ALIPAY_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1IJiB0Qd1JoCQGxAvL5v6SnFoi18UABAuo/TpiPg6aPJQ07n3kICyAEGIjt9Z/nJSLy9Snw+o1xSzLNDXEKWbRxcHcnDK00F7b4n32QX1h53fS2kwPa8yUxxpTlaBKULnv0XxVi5c7Nn1lYO3pjrkw/nj1W3dLvNyp8MJ1ZDFRhOGQoEQppN21CWb0czqu76qgBsd5sbenf3ak0auFdUXBtSsawsfkruhV87a27GMAoboZO5AkpKIJ+quPDx08vJlRT0aeA1VJGMMn79jqvxYeaLLgL8/uWcc8xxJzWAYbcCaYVK315XuYBKVPQ5K32rs7NA415LhRYY6sCwLfLqXQIDAQAB\n";
+
+    public static final String CHARSET = "utf-8";
+
+    public static final String SIGH_TYPE = "RSA2";
+
+    public static final String FORMAT = "json";
+
+    // https://openapi.alipaydev.com/gateway.do
+    // https://openapi.alipay.com/gateway.do
+    public static final String GATEWAY_ROOT = "https://openapi.alipaydev.com/gateway.do";
+
+    public static final String FIELD_NAME_OUT_TRADE_NO = "out_trade_no";
+
+    public static final String FIELD_NAME_SELLER_ID = "seller_id";
+
+    public static final String FIELD_NAME_TOTAL_AMOUNT = "total_amount";
+
+    public static final String FIELD_NAME_SUBJECT = "subject";
+
+    public static final String FIELD_NAME_OUT_REQUEST_NO = "out_request_no";
+
+    public static final String FIELD_NAME_TRADE_NO = "trade_no";
+
+    public static final String FIELD_NAME_ROYALTY_PARAMETERS = "royalty_parameters";
+
+    public static final String FIELD_NAME_TRANS_OUT = "trans_out";
+
+    public static final String FIELD_NAME_TRANS_IN = "trans_in";
+
+    public static final String FIELD_NAME_AMOUNT = "amount";
+
+    public static final String FIELD_NAME_AMOUNT_PERCENTAGE = "amount_percentage";
+
+    public static final String FIELD_NAME_DESC = "desc";
+
+    public static final String FIELD_NAME_OUT_BIZ_NO = "out_biz_no";
+
+    public static final String FIELD_NAME_PAYEE_TYPE = "payee_type";
+
+    public static final String FIELD_NAME_PAYEE_ACCOUNT = "payee_account";
+
+    public static final String FIELD_NAME_PAYER_SHOW_NAME = "payer_show_name";
+
+    public static final String FIELD_NAME_REMARK = "remark";
+
+    public static final Double PRICE_ZERO = 0.0;
+}
